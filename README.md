@@ -1,18 +1,16 @@
-# Título do projeto
+# Agenda Pessoal
 
-Um parágrafo da descrição do projeto vai aqui
+Último exercício da AF com o tema de Agenda Pessoal
 
 ## 🚀 Começando
 
-Pode colocar o enunciado para o desenvolvimento do projeto
+CRIE O PROJETO AGENDA PESSOAL;
+REPRODUZA OS PASSOS MENCIONADOS NO CONTEÚDO DA AULA 13, INCLUSIVE OS
+COMENTÁRIOS DOS CÓDIGOS;
 
-### 📋 Pré-requisitos
+### 📋 Código
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+file:///C:/Users/jcarl/eclipse-workspace/AgendaPessoalAF/doc/index.html
 
 ### 🔧 Instalação
 
