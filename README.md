@@ -21,17 +21,14 @@ file:///C:/Users/jcarl/eclipse-workspace/AgendaPessoalAF/doc/index.html      (de
 
 ### 🔧 Instalação
 
-* Explicação de como deve ser utilizado o projeto
+* Sistema utlizado como agenda pessoal para armazenar contatos.
 
 ## 🛠️ Construído com
-
-Ferramentas utilizadas e bibliotecas
 
 * IDE Eclipse
 
 ## 📌 Versão
 
-* **Versão 1.0** caso seja atualizado manter a descrição inicial e inserir uma nova linha com descrição da atualização.
 * **Versão 1.1** - *Refatoração* *data 09/09/24*
 
 ## ✒️ Autores
